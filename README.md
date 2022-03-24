@@ -1,6 +1,6 @@
 # componentStructure
 <h3>A try to create and use any components</h3>
-<p>In this case we have a login form and todo template as a practice.</p>
+<p>In this case we have a responsive login form and todo template as a practice.</p>
 <p>You can see the result on the codepen link below</p>
 <a href="https://codepen.io/maalireza51/pen/mdpRqJr">CODEPEN</a>
 <p>screenshot:</p>
