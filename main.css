@@ -10,6 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     background: linear-gradient(-30deg, #341ee9 0%,#00000a 50%,#dc1010 50%,#000000 100% );
+    overflow: scroll;
 }
 .col,.todocol{
     flex: 1 0 0%;
