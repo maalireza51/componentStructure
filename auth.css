@@ -1,0 +1,15 @@
+.author{
+    position: fixed;
+    text-align: center;
+    width: 80%;
+    bottom: 0;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: white;
+    transform: translateX(0);
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+}
