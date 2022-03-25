@@ -29,7 +29,7 @@ form{
 }
 .login-form{
     height: 200px;
-    padding-top:80px;
+    padding:80px 10px 0 10px;
 }
 .todo-form{
     height: 170px;
